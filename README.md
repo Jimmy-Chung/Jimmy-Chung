@@ -1,8 +1,8 @@
   ### Hi, I'm Jimmy 👋
 
-  🧑‍ Senior engineer & ex-product manager 
-  🚀 I turn ideas into shipped products, from first sketch to launch
-  🤖 These days I build with AI, mostly tools for knowledge, information and productivity
+  🧑‍ Senior engineer & ex-product manager \n
+  🚀 I turn ideas into shipped products, from first sketch to launch \n
+  🤖 These days I build with AI, mostly tools for knowledge, information and productivity \n
 
   **Recent builds**
   - 🧠 [know-why](https://github.com/Jimmy-Chung/know-why) — AI-assisted knowledge exploration: the more it
