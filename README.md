@@ -1,6 +1,6 @@
   ### Hi, I'm Jimmy 👋
 
-  🧑‍ Senior engineer & ex-product manager
+  🧑‍ Senior engineer & ex-product manager 
   🚀 I turn ideas into shipped products, from first sketch to launch
   🤖 These days I build with AI, mostly tools for knowledge, information and productivity
 
