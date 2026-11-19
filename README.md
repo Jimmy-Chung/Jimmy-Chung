@@ -1,8 +1,8 @@
   ### Hi, I'm Jimmy 👋
 
-  🧑‍ Senior engineer & ex-product manager \n
-  🚀 I turn ideas into shipped products, from first sketch to launch \n
-  🤖 These days I build with AI, mostly tools for knowledge, information and productivity \n
+  🧑‍ Senior engineer & ex-product manager<br>
+  🚀 I ship products end to end, from idea to launch<br>
+  🤖 These days I build with AI, mostly tools for knowledge, information and productivity
 
   **Recent builds**
   - 🧠 [know-why](https://github.com/Jimmy-Chung/know-why) — AI-assisted knowledge exploration: the more it
@@ -11,4 +11,5 @@
   AI interest filtering, entity graphs & time playback
   - 🎙️  [SayIt](https://github.com/Jimmy-Chung/SayIt) — macOS voice input with local or cloud transcription + LLM polishing
 
+    
   📍 Shenzhen, China
