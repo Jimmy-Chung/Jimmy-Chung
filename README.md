@@ -1,16 +1,15 @@
-## Hi there 👋
+  ### Hi, I'm Jimmy 👋
 
-<!--
-**Jimmy-Chung/Jimmy-Chung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  🧑‍ Senior engineer & ex-product manager
+  🚀 I turn ideas into shipped products, from first sketch to launch
+  🤖 These days I build with AI, mostly tools for knowledge, information and productivity
 
-Here are some ideas to get you started:
+  **Recent builds**
+  - 🧠 [know-why](https://github.com/Jimmy-Chung/know-why) — AI-assisted knowledge exploration: the more it
+  generates, the deeper you can go
+  - 📡 [news-signal-flow](https://github.com/Jimmy-Chung/news-signal-flow) — self-hosted news tracker with
+  AI interest filtering, entity graphs & time playback
+  - 🎙️  [SayIt](https://github.com/Jimmy-Chung/SayIt) — macOS voice input with local or cloud transcription
+  + LLM polishing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  📍 Shenzhen, China
